@@ -21,13 +21,21 @@
 
 <div align="center">
     Here are some things I've helped with/made I guess:
-    <ul align="center">
+    <ul>
       <li><a href="https://spin-board.herokuapp.com">Spin-Board (Code is closed source due to cheating concerns, sorry...)</a></li>
       <li><a href="https://github.com/SpinShare/client">SpinSha.re Client</a></li>
       <li><a href="https://jy1263.github.io/note-trainer/">Note Trainer</a></li>
       <li><a href="https://github.com/jy1263/TapeSync">TapeSync</a></li>
       <li><a href="https://jy1263.github.io/impatient-eta/">Impatient ETA</a></li>
     </ul>
+    <br><br>
+    
 </div>
+
+<div align="center">
+  Languages I know really well:
+  <img src="https://img.shields.io/badge/Node-ff69b4?style=flat-square&logo=javascript" align="center">
+</div>
+
 
 
