@@ -8,7 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jy1263&show_icons=true&theme=radical" align="center"> <br>
   (Specifically Software and Music...)
 </p>
-<br>
+
 <p>
     Here are some things I've helped with/made I guess:
     <ul>
