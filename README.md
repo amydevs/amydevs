@@ -5,6 +5,7 @@
 <p align="center">
   <h2 align="center">I make things!</h> <br>
   <img src="https://github-readme-stats.vercel.app/api?username=jy1263&show_icons=true&theme=radical" align="center"> <br>
+  (Specifically Software and Music...)
 </p>
-<p align="center">(Specifically Software and Music...)</p>
+
 
