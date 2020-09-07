@@ -5,10 +5,12 @@
 </div>
 
 <p align="center">
-    <h2 align="center">I make things! <br>
+   <h2 align="center">
+    I make things! <br>
     <img src="https://github-readme-stats.vercel.app/api?username=jy1263&show_icons=true&theme=radical" align="center"> <br>
-    (Specifically Software and Music...)
+    (Specifically Software and Music...) 
   </h2>
+  <br>
 </p>
 
 <body>
