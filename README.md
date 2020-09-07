@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">
-    Hi, I'm Amy! <br>
+    Hi, I'm Amy! 👋 <br>
     <img src="https://pronoun.cyou/x/y?subject=She&object=Her&height=30" align="center"><br>
     <img src="https://img.shields.io/badge/Status-Forever%20Tired.-ff69b4?style=flat-square" align="center">
     <a href="https://twitter.com/jy126orjy126">
