@@ -32,8 +32,9 @@
 </div>
 
 <div align="center">
-  Some Languages:
-  <img src="https://img.shields.io/badge/Node-ff69b4?style=flat-square&logo=javascript" align="center">
+  Some Languages: <br>
+  <img src="https://img.shields.io/badge/JavaScript-ff69b4?style=flat-square&logo=javascript" align="center">
+  <img src="https://img.shields.io/badge/Node-ff69b4?style=flat-square&logo=node.js" align="center">
   <img src="https://img.shields.io/badge/C%23-ff69b4?style=flat-square&logo=c%20sharp" align="center">
   
 </div>
