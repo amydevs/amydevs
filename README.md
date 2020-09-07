@@ -32,7 +32,8 @@
 </div>
 
 <div align="center">
-  Some Languages: <br>
+  Stuff I Know: <br>
+  <img src="https://img.shields.io/badge/HTML5-ff69b4?style=flat-square&logo=html5" align="center">
   <img src="https://img.shields.io/badge/JavaScript-ff69b4?style=flat-square&logo=javascript" align="center">
   <img src="https://img.shields.io/badge/Node-ff69b4?style=flat-square&logo=node.js" align="center">
   <img src="https://img.shields.io/badge/C%23-ff69b4?style=flat-square&logo=c%20sharp" align="center">
