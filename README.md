@@ -28,13 +28,14 @@
       <li><a href="https://github.com/jy1263/TapeSync">TapeSync</a></li>
       <li><a href="https://jy1263.github.io/impatient-eta/">Impatient ETA</a></li>
     </ul>
-    <br><br>
-    
+    <br>
 </div>
 
 <div align="center">
-  Languages I know really well:
+  Some Languages:
   <img src="https://img.shields.io/badge/Node-ff69b4?style=flat-square&logo=javascript" align="center">
+  <img src="https://img.shields.io/badge/C%28-ff69b4?style=flat-square&logo=c%20sharp" align="center">
+  
 </div>
 
 
