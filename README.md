@@ -35,11 +35,12 @@
   Stuff I Know: <br>
   <img src="https://img.shields.io/badge/HTML5-ff69b4?style=flat-square&logo=html5" align="center">
   <img src="https://img.shields.io/badge/JavaScript-ff69b4?style=flat-square&logo=javascript" align="center">
+  <img src="https://img.shields.io/badge/C%23-ff69b4?style=flat-square&logo=c%20sharp" align="center">
   <img src="https://img.shields.io/badge/TypeScript-ff69b4?style=flat-square&logo=TypeScript" align="center">
   <img src="https://img.shields.io/badge/Node-ff69b4?style=flat-square&logo=node.js" align="center">
   <img src="https://img.shields.io/badge/Vue.js-ff69b4?style=flat-square&logo=vue.js" align="center">
   <img src="https://img.shields.io/badge/Express.js-ff69b4?style=flat-square&logo=node.js" align="center">
-  <img src="https://img.shields.io/badge/C%23-ff69b4?style=flat-square&logo=c%20sharp" align="center">
+  <img src="https://img.shields.io/badge/MongoDB-ff69b4?style=flat-square&logo=mongodb" align="center">
 </div>
 
 
