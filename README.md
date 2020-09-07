@@ -10,8 +10,7 @@
   (Specifically Software and Music...) <br><br>
 </h2>
 
-
-<body>
+<body align="center">
     Here are some things I've helped with/made I guess:
     <ul>
       <li><a href="https://spin-board.herokuapp.com">Spin-Board (Code is closed source due to cheating concerns, sorry...)</a></li>
