@@ -1,10 +1,12 @@
 <div align="center">
   <h1 align="center">
     Hi, I'm Amy! <br>
-    <img src="https://pronoun.cyou/x/y?subject=She&object=Her&height=30" align="center">
-    <br><br>
+    <img src="https://pronoun.cyou/x/y?subject=She&object=Her&height=30" align="center"><br>
+    <img src="https://img.shields.io/badge/Status-Forever%20Tired.-ff69b4?style=flat-square" align="center">
   </h1>
+  
 </div>
+
 <h2 align="center"> I make things! <br>
   <img src="https://github-readme-stats.vercel.app/api?username=jy1263&show_icons=true&theme=radical" align="center"> <br>
   (Specifically Software and Music...) <br><br>
