@@ -9,7 +9,7 @@
   (Specifically Software and Music...)
 </p>
 <br>
-<div>
+<p>
     Here are some things I've helped with/made I guess:
     <ul>
       <li><a href="https://spin-board.herokuapp.com">Spin-Board (Code is closed source due to cheating concerns, sorry...)</a></li>
@@ -17,6 +17,6 @@
       <li><a href="https://github.com/jy1263/TapeSync">TapeSync</a></li>
       <li><a href="https://jy1263.github.io/impatient-eta/">Impatient ETA</a></li>
     </ul>
-</div>
+</p>
 
 
