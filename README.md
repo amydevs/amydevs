@@ -51,14 +51,14 @@
 
 <div align="center">
   Stuff I Know: <br>
-  <img src="https://img.shields.io/badge/HTML5-d83a7d?style=flat-square&logo=html5" align="center">
-  <img src="https://img.shields.io/badge/JavaScript-d83a7d?style=flat-square&logo=javascript" align="center">
-  <img src="https://img.shields.io/badge/C%23-d83a7d?style=flat-square&logo=c%20sharp" align="center">
-  <img src="https://img.shields.io/badge/TypeScript-d83a7d?style=flat-square&logo=TypeScript" align="center">
-  <img src="https://img.shields.io/badge/Node-d83a7d?style=flat-square&logo=node.js" align="center">
-  <img src="https://img.shields.io/badge/Vue.js-d83a7d?style=flat-square&logo=vue.js" align="center">
-  <img src="https://img.shields.io/badge/Express.js-d83a7d?style=flat-square&logo=node.js" align="center">
-  <img src="https://img.shields.io/badge/MongoDB-d83a7d?style=flat-square&logo=mongodb" align="center">
+  <img src="https://img.shields.io/badge/HTML5-141321?style=flat-square&logo=html5" align="center">
+  <img src="https://img.shields.io/badge/JavaScript-141321?style=flat-square&logo=javascript" align="center">
+  <img src="https://img.shields.io/badge/C%23-141321?style=flat-square&logo=c%20sharp" align="center">
+  <img src="https://img.shields.io/badge/TypeScript-141321?style=flat-square&logo=TypeScript" align="center">
+  <img src="https://img.shields.io/badge/Node-141321?style=flat-square&logo=node.js" align="center">
+  <img src="https://img.shields.io/badge/Vue.js-141321?style=flat-square&logo=vue.js" align="center">
+  <img src="https://img.shields.io/badge/Express.js-141321?style=flat-square&logo=node.js" align="center">
+  <img src="https://img.shields.io/badge/MongoDB-141321?style=flat-square&logo=mongodb" align="center">
 </div>
 <br>
 <div align="center">
