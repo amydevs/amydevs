@@ -14,7 +14,7 @@
       <img src="https://img.shields.io/badge/SoundCloud-AyanAmy-d83a7d?style=flat-square&logo=soundcloud" align="center">
     </a>
     <a href="https://ko-fi.com/ayanamy">
-      <img src="https://img.shields.io/badge/Ko&#44fi-AyanAmy-d83a7d?style=flat-square&logo=ko-fi" align="center">
+      <img src="https://img.shields.io/badge/Ko&#45fi-AyanAmy-d83a7d?style=flat-square&logo=ko-fi" align="center">
     </a>
   </h1>
   
