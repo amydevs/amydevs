@@ -34,11 +34,11 @@
 <div align="center">
     What I do in my spare time:
     <ul>
-      <li><strike>cry</strike></li>
-      <li>Slep</li>
       <li>Learning and Programming Stuff</li>
       <li>Make Music (Mostly Lofi lol)</li>
       <li>Study</li>
+      <li><strike>cry</strike></li>
+      <li>Slep</li>
     </ul>
     <br>
 </div>
