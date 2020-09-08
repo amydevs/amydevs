@@ -10,6 +10,9 @@
     <a href="https://open.spotify.com/artist/15HdoPMP89EsIfIvN1coko?si=w_DgHRz_QJmHusiByrQWxw">
       <img src="https://img.shields.io/badge/Spotify-AyanAmy-d83a7d?style=flat-square&logo=spotify" align="center">
     </a>
+    <a href="https://soundcloud.com/owotter">
+      <img src="https://img.shields.io/badge/SoundCloud-AyanAmy-d83a7d?style=flat-square&logo=soundcloud" align="center">
+    </a>
   </h1>
   
 </div>
