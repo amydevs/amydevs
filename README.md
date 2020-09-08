@@ -42,6 +42,13 @@
   <img src="https://img.shields.io/badge/Express.js-d83a7d?style=flat-square&logo=node.js" align="center">
   <img src="https://img.shields.io/badge/MongoDB-d83a7d?style=flat-square&logo=mongodb" align="center">
 </div>
+<br>
+<div align="center">
+  Teams: <br>
+  <img src="https://img.shields.io/badge/SpinSha.re-d83a7d?style=flat-square" align="center">
+  <img src="https://img.shields.io/badge/SRXD Modding Group-d83a7d?style=flat-square" align="center">
+</div>
+
 
 
 
