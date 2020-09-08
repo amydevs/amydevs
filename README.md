@@ -32,6 +32,18 @@
 </div>
 
 <div align="center">
+    What I do in my spare time:
+    <ul>
+      <li><strike>cry</strike></li>
+      <li>Slep</li>
+      <li>Learning and Programming Stuff</li>
+      <li>Make Music (Mostly Lofi lol)</li>
+      <li>Study</li>
+    </ul>
+    <br>
+</div>
+
+<div align="center">
   Stuff I Know: <br>
   <img src="https://img.shields.io/badge/HTML5-d83a7d?style=flat-square&logo=html5" align="center">
   <img src="https://img.shields.io/badge/JavaScript-d83a7d?style=flat-square&logo=javascript" align="center">
