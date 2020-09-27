@@ -13,6 +13,9 @@
     <a href="https://soundcloud.com/owotter">
       <img src="https://img.shields.io/badge/SoundCloud-AyanAmy-d83a7d?style=flat-square&logo=soundcloud" align="center">
     </a>
+    <a href="https://ayanamy.bandcamp.com">
+      <img src="https://img.shields.io/static/v1?label=Bandcamp&message=AyanAmy&color=d83a7d&style=flat-square&logo=bandcamp" align="center">
+    </a>
     <a href="https://ko-fi.com/ayanamy">
       <img src="https://img.shields.io/static/v1?label=Ko&#45fi&message=AyanAmy&color=d83a7d&style=flat-square&logo=ko-fi" align="center">
     </a>
