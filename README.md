@@ -32,7 +32,7 @@
     Here are some things I've helped with/made I guess:
     <ul>
       <li><a href="https://spin-board.herokuapp.com">Spin-Board (Code is closed source due to cheating concerns, sorry...)</a></li>
-      <li><a href="https://jy1263.github.io">About me SPA</a></li>
+      <li><a href="https://ayanamy.is-a.dev/">About me SPA</a></li>
       <li><a href="https://github.com/SpinShare/client">SpinSha.re Client</a></li>
       <li><a href="https://jy1263.github.io/note-trainer/">Note Trainer</a></li>
       <li><a href="https://github.com/jy1263/TapeSync">TapeSync</a></li>
