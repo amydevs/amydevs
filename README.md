@@ -19,6 +19,7 @@
     <a href="https://ko-fi.com/ayanamy">
       <img src="https://img.shields.io/static/v1?label=Ko&#45fi&message=AyanAmy&color=d83a7d&style=flat-square&logo=ko-fi" align="center">
     </a>
+    <img src="https://komarev.com/ghpvc/?username=jy1263&color=d83a7c&style=flat-square" align="center">
   </h1>
   
 </div>
@@ -70,7 +71,6 @@
   <img src="https://img.shields.io/badge/SpinSha.re-d83a7d?style=flat-square" align="center">
   <img src="https://img.shields.io/badge/SRXD Modding Group-d83a7d?style=flat-square" align="center">
 </div>
-<img src="https://komarev.com/ghpvc/?username=jy1263&color=d83a7c&style=flat-square" align="center">
 
 
 
