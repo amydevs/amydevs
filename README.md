@@ -61,6 +61,7 @@
   <img src="https://img.shields.io/badge/C%23-d83a7d?style=flat-square&logo=c%20sharp" align="center">
   <img src="https://img.shields.io/badge/TypeScript-d83a7d?style=flat-square&logo=TypeScript" align="center">
   <img src="https://img.shields.io/badge/Node-d83a7d?style=flat-square&logo=node.js" align="center">
+  <img src="https://img.shields.io/badge/PHP-d83a7d?style=flat-square&logo=PHP" align="center">
   <img src="https://img.shields.io/badge/Vue.js-d83a7d?style=flat-square&logo=vue.js" align="center">
   <img src="https://img.shields.io/badge/Express.js-d83a7d?style=flat-square&logo=node.js" align="center">
   <img src="https://img.shields.io/badge/MongoDB-d83a7d?style=flat-square&logo=mongodb" align="center">
