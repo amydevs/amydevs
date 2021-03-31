@@ -49,7 +49,7 @@
       <li>Make Music (Mostly Lofi lol)</li>
       <li>Study</li>
       <li><strike>cry</strike></li>
-      <li>Slep</li>
+      <li>Sleep</li>
     </ul>
     <br>
 </div>
