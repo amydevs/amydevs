@@ -55,12 +55,13 @@
 </div>
 
 <div align="center">
-  Things I use sometimes: <br>
-  <img src="https://img.shields.io/badge/HTML5-d83a7d?style=flat-square&logo=html5" align="center">
-  <img src="https://img.shields.io/badge/JavaScript-d83a7d?style=flat-square&logo=javascript" align="center">
-  <img src="https://img.shields.io/badge/C%23-d83a7d?style=flat-square&logo=c%20sharp" align="center">
-  <img src="https://img.shields.io/badge/TypeScript-d83a7d?style=flat-square&logo=TypeScript" align="center">
+  I know: <br>
+  
   <img src="https://img.shields.io/badge/Node-d83a7d?style=flat-square&logo=node.js" align="center">
+  <img src="https://img.shields.io/badge/JavaScript-d83a7d?style=flat-square&logo=javascript" align="center">
+  <img src="https://img.shields.io/badge/TypeScript-d83a7d?style=flat-square&logo=TypeScript" align="center">
+  <img src="https://img.shields.io/badge/HTML5-d83a7d?style=flat-square&logo=html5" align="center">
+  <img src="https://img.shields.io/badge/C%23-d83a7d?style=flat-square&logo=c%20sharp" align="center">
   <img src="https://img.shields.io/badge/Vue.js-d83a7d?style=flat-square&logo=vue.js" align="center">
   <img src="https://img.shields.io/badge/Express.js-d83a7d?style=flat-square&logo=node.js" align="center">
   <img src="https://img.shields.io/badge/MongoDB-d83a7d?style=flat-square&logo=mongodb" align="center">
