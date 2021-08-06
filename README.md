@@ -33,7 +33,7 @@
     <ul>
       <li><a href="https://spin-board.herokuapp.com">Spin-Board (Code is closed source due to cheating concerns, sorry...)</a></li>
       <li><a href="https://ayanamy.is-a.dev/">About me SPA</a></li>
-      <li><a href="https://austaxcalc.000webhostapp.com/">Simple Laravel Australian Tax Calculator (Beware no HTTPS as I wasn't bothered for a school project.)</a></li>
+      <li><a href="https://austaxcalc.000webhostapp.com/">Simple Laravel Australian Tax Calculator</a></li>
       <li><a href="https://github.com/SpinShare/client">SpinSha.re Client</a></li>
       <li><a href="https://jy1263.github.io/note-trainer/">Note Trainer</a></li>
       <li><a href="https://github.com/jy1263/TapeSync">TapeSync</a></li>
