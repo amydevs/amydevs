@@ -70,6 +70,13 @@
 </div>
 <br>
 <div align="center">
+  Learning: <br>
+  
+  <img src="https://img.shields.io/badge/C++-d83a7d?style=flat-square&logo=cplusplus" align="center">
+  <img src="https://img.shields.io/badge/Rust-d83a7d?style=flat-square&logo=rust" align="center">
+</div>
+<br>
+<div align="center">
   Teams: <br>
   <img src="https://img.shields.io/badge/SpinSha.re-d83a7d?style=flat-square" align="center">
   <img src="https://img.shields.io/badge/SRXD Modding Group-d83a7d?style=flat-square" align="center">
