@@ -25,20 +25,6 @@
 </h2>
 
 <div align="center">
-    Here are some things I've helped with/made I guess:
-    <ul>
-      <li><a href="https://spin-board.herokuapp.com">Spin-Board (Code is closed source due to cheating concerns, sorry...)</a></li>
-      <li><a href="https://ayanamy.is-a.dev/">About me SPA</a></li>
-      <li><a href="https://austaxcalc.000webhostapp.com/">Simple Laravel Australian Tax Calculator</a></li>
-      <li><a href="https://github.com/SpinShare/client">SpinSha.re Client</a></li>
-      <li><a href="https://jy1263.github.io/note-trainer/">Note Trainer</a></li>
-      <li><a href="https://github.com/jy1263/TapeSync">TapeSync</a></li>
-      <li><a href="https://jy1263.github.io/impatient-eta/">Impatient ETA</a></li>
-    </ul>
-    <br>
-</div>
-
-<div align="center">
   I know: <br>
   
   <img src="https://img.shields.io/badge/Node-d83a7d?style=flat-square&logo=node.js" align="center">
