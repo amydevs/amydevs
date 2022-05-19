@@ -39,15 +39,6 @@
 </div>
 
 <div align="center">
-    What I do in my spare time:
-    <ul>
-      <li>Learning and Programming Stuff</li>
-      <li>Make Music (Mostly Lofi)</li>
-    </ul>
-    <br>
-</div>
-
-<div align="center">
   I know: <br>
   
   <img src="https://img.shields.io/badge/Node-d83a7d?style=flat-square&logo=node.js" align="center">
