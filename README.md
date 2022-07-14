@@ -33,6 +33,9 @@
   <img src="https://img.shields.io/badge/HTML5-d83a7d?style=flat-square&logo=html5" align="center">
   <img src="https://img.shields.io/badge/C%23-d83a7d?style=flat-square&logo=c%20sharp" align="center">
   <img src="https://img.shields.io/badge/Vue.js-d83a7d?style=flat-square&logo=vue.js" align="center">
+  <img src="https://img.shields.io/badge/Nuxt.js-d83a7d?style=flat-square&logo=nuxt.js" align="center">
+  <img src="https://img.shields.io/badge/React-d83a7d?style=flat-square&logo=react" align="center">
+  <img src="https://img.shields.io/badge/Next.js-d83a7d?style=flat-square&logo=next.js" align="center">
   <img src="https://img.shields.io/badge/Express.js-d83a7d?style=flat-square&logo=node.js" align="center">
   <img src="https://img.shields.io/badge/MongoDB-d83a7d?style=flat-square&logo=mongodb" align="center">
   <img src="https://img.shields.io/badge/Python-d83a7d?style=flat-square&logo=Python" align="center">
