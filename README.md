@@ -57,6 +57,6 @@
 </div>
 <br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jy1263&layout=compacte&theme=radical"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jy1263&layout=compact&theme=radical"> 
 </div>
 
