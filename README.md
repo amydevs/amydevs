@@ -54,7 +54,8 @@
   <img src="https://img.shields.io/badge/SpinSha.re-d83a7d?style=flat-square" align="center">
   <img src="https://img.shields.io/badge/SRXD Modding Group-d83a7d?style=flat-square" align="center">
 </div>
-
-
-
+<br>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jy1263&layout=compacte&theme=radical"> 
+</div>
 
