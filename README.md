@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/MongoDB-d83a7d?style=flat-square&logo=mongodb" align="center">
   <img src="https://img.shields.io/badge/Python-d83a7d?style=flat-square&logo=Python" align="center">
   <img src="https://img.shields.io/badge/PHP-d83a7d?style=flat-square&logo=PHP" align="center">
+  <img src="https://img.shields.io/badge/Laravel-d83a7d?style=flat-square&logo=Laravel" align="center">
 </div>
 <br>
 <div align="center">
