@@ -41,13 +41,14 @@
   <img src="https://img.shields.io/badge/Python-d83a7d?style=flat-square&logo=Python" align="center">
   <img src="https://img.shields.io/badge/PHP-d83a7d?style=flat-square&logo=PHP" align="center">
   <img src="https://img.shields.io/badge/Laravel-d83a7d?style=flat-square&logo=Laravel" align="center">
+  <img src="https://img.shields.io/badge/Rust-d83a7d?style=flat-square&logo=rust" align="center">
 </div>
 <br>
 <div align="center">
   Learning: <br>
   
   <img src="https://img.shields.io/badge/C++-d83a7d?style=flat-square&logo=cplusplus" align="center">
-  <img src="https://img.shields.io/badge/Rust-d83a7d?style=flat-square&logo=rust" align="center">
+  <img src="https://img.shields.io/badge/C-d83a7d?style=flat-square&logo=c" align="center">
 </div>
 <br>
 <div align="center">
