@@ -2,7 +2,6 @@
   <h1 align="center">
     Hi, I'm Amy! 👋 <br>
     <img src="https://pronoun.cyou/x/y?subject=She&object=They&height=30" align="center"><br>
-    <img src="https://img.shields.io/badge/Discord-ayanamy.jy126%239012-d83a7d?style=flat-square&logo=discord" align="center">
     <a href="https://open.spotify.com/artist/15HdoPMP89EsIfIvN1coko?si=w_DgHRz_QJmHusiByrQWxw">
       <img src="https://img.shields.io/badge/Spotify-AyanAmy-d83a7d?style=flat-square&logo=spotify" align="center">
     </a>
