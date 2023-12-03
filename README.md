@@ -1,7 +1,6 @@
 <div align="center">
   <h1 align="center">
-    Hi, I'm Amy! 👋 <br>
-    <img src="https://pronoun.cyou/x/y?subject=She&object=They&height=30" align="center"><br>
+    Hi, I'm Amy! 👋<br>
     <a href="https://open.spotify.com/artist/15HdoPMP89EsIfIvN1coko?si=w_DgHRz_QJmHusiByrQWxw">
       <img src="https://img.shields.io/badge/Spotify-AyanAmy-d83a7d?style=flat-square&logo=spotify" align="center">
     </a>
