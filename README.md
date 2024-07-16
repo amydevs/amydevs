@@ -2,7 +2,8 @@
   <h1 align="center">
     Hi, I'm Amy! 👋<br>
     (She/Her)<br>
-    <a href="https://open.spotify.com/artist/15HdoPMP89EsIfIvN1coko?si=w_DgHRz_QJmHusiByrQWxw">
+  </h1>
+  <a href="https://open.spotify.com/artist/15HdoPMP89EsIfIvN1coko?si=w_DgHRz_QJmHusiByrQWxw">
       <img src="https://img.shields.io/badge/Spotify-AyanAmy-d83a7d?style=flat-square&logo=spotify" align="center">
     </a>
     <a href="https://soundcloud.com/owotter">
@@ -15,7 +16,6 @@
       <img src="https://img.shields.io/static/v1?label=Ko&#45fi&message=AyanAmy&color=d83a7d&style=flat-square&logo=ko-fi" align="center">
     </a>
     <img src="https://komarev.com/ghpvc/?username=jy1263&color=d83a7c&style=flat-square&label=Profile+Views" align="center">
-  </h1>
 </div>
 
 <h2 align="center"> I make things! <br>
