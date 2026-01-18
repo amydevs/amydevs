@@ -57,6 +57,11 @@
 </div>
 <br>
 <div align="center">
+  Contact me at: <br>
+  <a href="mailto:ayanamydev@gmail.com">ayanamydev@gmail.com</a>
+</div>
+<br>
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amydevs&layout=compact&theme=radical"> 
 </div>
 
