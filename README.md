@@ -19,7 +19,7 @@
 </div>
 
 <h2 align="center"> I make things! <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=amydevs&show_icons=true&theme=radical" align="center"> <br>
+  <img src="https://github-readme-stats.shion.dev/api?username=amydevs&show_icons=true&theme=radical" align="center"> <br>
   (Mainly Software and Music) <br><br>
 </h2>
 
@@ -62,6 +62,6 @@
 </div>
 <br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amydevs&layout=compact&theme=radical"> 
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=amydevs&layout=compact&theme=radical"> 
 </div>
 
